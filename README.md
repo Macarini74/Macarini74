@@ -1,5 +1,5 @@
 # Hi there, welcome to my Github profile. 👋
-## My name is Iago Macarini, i'm studying Computer Engineer at the Federal University os Technology - Paraná, Brazil.
+## My name is Iago Macarini, I'm studying Computer Engineer at the Federal University os Technology - Paraná, Brazil.
 ## I participated in an extensio project as a scholarship holder at the university, named "Computação Assistiva para Pessoas com Deficiências Específicas" (Assistive Computing for Peopel with Specific Disabilities), where I developed a traffic light with an RFID sensor to help visually impaired people cross a public road intersection.
 ## Currently, I'm developing automations for a company in the food industry.
 
