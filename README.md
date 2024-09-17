@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/Macarini74">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Macarini74&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&token=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"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Macarini74&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
 
 ## Tools and Technologies
