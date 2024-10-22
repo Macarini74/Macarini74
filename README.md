@@ -1,8 +1,6 @@
 # Hi there, welcome to my Github profile. 👋
 ## My name is Iago Macarini, I'm studying Computer Engineer at the Federal University os Technology - Paraná, Brazil.
 ## I participated in an extension project as a scholarship holder at the university, named "Computação Assistiva para Pessoas com Deficiências Específicas" (Assistive Computing for Peopel with Specific Disabilities), where I developed a traffic light with an RFID sensor to help visually impaired people cross a public road intersection.
-## I've worked at a company in the food industry developing automations with RPA techniques.
-
 <div>
 <a href="https://github.com/Macarini74">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=7&theme=dracula"/>
