@@ -3,8 +3,7 @@
 ### I currently work as an automation developer, building solutions with Python and Power BI to make processes faster and more reliable.
 <p align="center">
 <a href="https://github.com/Macarini74">
-<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=400"/>
-<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=Macarini74&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&card_width=400&cache_seconds=1800"/>
+<img loading="lazy" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=450"/>
 </a>
 </p>
 
