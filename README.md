@@ -1,12 +1,12 @@
 # Hi there, welcome to my Github profile. 👋
 ## My name is Iago Macarini, I'm studying Computer Engineering at the Federal University of Technology - Paraná, Brazil.
 ### I currently work as an automation developer, building solutions with Python and Power BI to make processes faster and more reliable.
-<div>
+<p align="center">
 <a href="https://github.com/Macarini74">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Macarini74&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=400"/>
+<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=Macarini74&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&card_width=400&cache_seconds=1800"/>
 </a>
-</div>
+</p>
 
 ## Projects
 - **Assistive Computing for People with Specific Disabilities** ("Computação Assistiva para Pessoas com Deficiências Específicas"): a university extension project where I was a scholarship holder. I developed a traffic light with an RFID sensor to help visually impaired people cross a public road intersection.
