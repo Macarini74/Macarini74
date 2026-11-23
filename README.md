@@ -1,24 +1,53 @@
-# Hi there, welcome to my Github profile. 👋
-## My name is Iago Macarini, I'm studying Computer Engineering at the Federal University of Technology - Paraná, Brazil.
-### I currently work as an automation developer, building solutions with Python and Power BI to make processes faster and more reliable.
+<h1 align="center">Hi, I'm Iago Macarini 👋</h1>
+
 <p align="center">
-<a href="https://github.com/Macarini74">
-<img loading="lazy" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=450"/>
-</a>
+  <i>Computer Engineering student · Automation Developer · Brazil 🇧🇷</i>
 </p>
 
-## Projects
-- **Assistive Computing for People with Specific Disabilities** ("Computação Assistiva para Pessoas com Deficiências Específicas"): a university extension project where I was a scholarship holder. I developed a traffic light with an RFID sensor to help visually impaired people cross a public road intersection.
-- **Work automations**: scripts and dashboards that automate routine tasks and turn data into useful reports, using Python and Power BI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Automation-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-## Currently Using
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" />
+---
 
-## Tools and Technologies
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-          
- ## Contacts
- <div>
- <a href="https://instagram.com/iago_macarini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/iago-macarini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>         
- </div>              
+## 🙋 About me
+
+- 🎓 Studying **Computer Engineering** at the Federal University of Technology - Paraná (UTFPR), Brazil
+- 💼 Working as an **automation developer**, building solutions that make processes faster and more reliable
+- 🔭 Currently using **Python** and **Power BI** day to day
+- 🌱 Always learning and looking for ways to turn repetitive work into automated work
+
+## 🚀 Projects
+
+| Project | What it is |
+|---|---|
+| 🚦 **Assistive Computing for People with Specific Disabilities** | University extension project (*Computação Assistiva para Pessoas com Deficiências Específicas*), where I was a scholarship holder. I developed a traffic light with an RFID sensor to help visually impaired people cross a public road intersection. |
+| ⚙️ **Work automations** | Scripts and dashboards that automate routine tasks and turn data into useful reports, using Python and Power BI. |
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## 📊 Most used languages
+
+<p align="center">
+  <a href="https://github.com/Macarini74">
+    <img loading="lazy" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macarini74&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=450"/>
+  </a>
+</p>
+
+## 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/iago-macarini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/iago_macarini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
